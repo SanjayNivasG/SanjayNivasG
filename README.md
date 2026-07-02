@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sanjay Nivas G</h1>
 
-<h3 align="center">
-Full Stack Developer • DevOps Engineer • AWS Cloud Enthusiast
-</h3>
+<h3 align="center">🚀 Full Stack Developer | ☁️ DevOps & Cloud Engineer | AWS Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Engineer;AWS+Cloud+Enthusiast;MERN+Stack+Developer;Docker+%7C+Kubernetes+%7C+Terraform;Building+Cloud+Native+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+%26+Cloud+Engineer;AWS+Cloud+Enthusiast;MERN+Stack+Developer;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation;Building+Cloud+Native+Applications;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+
+<a href="https://github.com/SanjayNivasG">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:sanjaynivasgg23it@srishakthi.ac.in">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -14,21 +24,15 @@ Full Stack Developer • DevOps Engineer • AWS Cloud Enthusiast
 
 🎓 Information Technology Student
 
-💻 Passionate about Full Stack Development, Cloud Computing and DevOps
+💻 Passionate about Full Stack Development, Cloud Computing and DevOps.
 
-☁️ Hands-on experience with AWS, Docker, Kubernetes, Jenkins, Terraform and GitOps
+☁️ Hands-on experience with AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Helm, Prometheus and Grafana.
 
-🌱 Currently learning
+🌐 Building scalable cloud-native applications using the MERN Stack and Spring Boot.
 
-- Advanced Kubernetes
-- AWS Architecture
-- GitHub Actions
-- Helm
-- Advanced Networking
+📚 Passionate about Linux, Networking, Kubernetes and Cloud Infrastructure.
 
-🎯 Goal
-
-Become a Cloud & DevOps Engineer and build highly scalable cloud-native applications.
+🎯 Aspiring Full Stack Developer and Cloud & DevOps Engineer.
 
 ---
 
@@ -44,10 +48,17 @@ Become a Cloud & DevOps Engineer and build highly scalable cloud-native applicat
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<!-- Add LinkedIn later -->
+<!-- Add your LinkedIn -->
 <!--
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+-->
+
+<!-- Add your Portfolio -->
+<!--
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 -->
 
@@ -55,7 +66,7 @@ Become a Cloud & DevOps Engineer and build highly scalable cloud-native applicat
 
 ---
 
-# 💻 Tech Stack
+# 💻 Full Stack Development
 
 ### Programming Languages
 
@@ -83,13 +94,13 @@ Become a Cloud & DevOps Engineer and build highly scalable cloud-native applicat
 
 ---
 
-# ☁️ Cloud & DevOps
+# ☁️ DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github,prometheus,grafana,nginx"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github,githubactions,prometheus,grafana,nginx,vscode,postman,maven"/>
 </p>
 
-### AWS Services
+## AWS Services
 
 - Amazon EC2
 - Amazon EKS
@@ -100,92 +111,64 @@ Become a Cloud & DevOps Engineer and build highly scalable cloud-native applicat
 - Route 53
 - Application Load Balancer
 - Auto Scaling
+- DynamoDB
 
 ---
 
-# 🔧 Tools
+# 🛠️ DevOps Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,maven,npm"/>
-</p>
-
----
-
-# 🚀 DevOps Skills
-
-✅ Docker
-
-✅ Kubernetes
-
-✅ Amazon EKS
-
-✅ Terraform
-
-✅ Jenkins
-
-✅ Helm
-
-✅ Argo CD
-
-✅ GitHub Actions
-
-✅ Prometheus
-
-✅ Grafana
-
-✅ Linux
-
-✅ Bash Scripting
-
-✅ Git
+- Docker
+- Kubernetes
+- Helm
+- Argo CD
+- Jenkins
+- Terraform
+- GitHub Actions
+- Prometheus
+- Grafana
+- Linux
+- Bash
+- Git
+- Nginx
 
 ---
 
-# 💻 MERN Stack
+# 💼 Featured Projects
 
-- MongoDB
-- Express.js
-- React.js
-- Node.js
+## ☁️ Cloud & DevOps
 
----
+- 🚀 End-to-End CI/CD Pipeline using AWS, Jenkins, Docker & Kubernetes
+- 🚀 AWS EKS GitOps using Argo CD
+- 🚀 External Secrets Integration
+- 🚀 IAM Roles for Service Accounts (IRSA)
+- 🚀 ALB Ingress Troubleshooting
+- 🚀 Kubernetes Production Incident Labs
+- 🚀 Prometheus & Grafana Monitoring
+- 🚀 Terraform Infrastructure as Code
 
-# 📂 Featured Projects
+## 💻 Full Stack
 
-🚀 End-to-End CI/CD Pipeline using AWS, Jenkins, Docker & Kubernetes
-
-🚀 AWS EKS GitOps with Argo CD
-
-🚀 External Secrets Integration
-
-🚀 IRSA Implementation
-
-🚀 ALB Ingress Troubleshooting
-
-🚀 Kubernetes Production Troubleshooting Labs
-
-🚀 Terraform AWS Infrastructure
-
-🚀 Smart Timetable Scheduler
-
-🚀 Legal Connect
-
-🚀 Mental Health Care Website
+- Smart Timetable Scheduler
+- Legal Connect
+- Mental Health Care Website
+- MERN Stack Applications
+- Spring Boot REST APIs
 
 ---
 
 # 🌱 Currently Learning
 
-- Kubernetes Security
-- Service Mesh (Istio)
+- Advanced Kubernetes
 - AWS Solutions Architecture
-- GitOps
-- Advanced Terraform
+- GitHub Actions
+- Helm Charts
+- Kubernetes Security
+- Istio Service Mesh
 - Advanced Linux Networking
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -221,9 +204,20 @@ Become a Cloud & DevOps Engineer and build highly scalable cloud-native applicat
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SanjayNivasG&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SanjayNivasG&theme=tokyonight&row=2&column=4"/>
 
 </p>
+
+---
+
+# 💻 Coding Profiles
+
+Coming Soon...
+
+- LeetCode
+- HackerRank
+- CodeChef
+- GeeksforGeeks
 
 ---
 
@@ -237,16 +231,14 @@ Become a Cloud & DevOps Engineer and build highly scalable cloud-native applicat
 
 ---
 
-# 💡 Quote
+# 💬 Dev Quote
 
-> **"Learning never stops. Every project, every bug, and every deployment is an opportunity to improve."**
+> **"First, solve the problem. Then, automate it."**
 
 ---
 
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
 <p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider ⭐ starring my repositories.
-
+If you like my work, consider starring my repositories and following my GitHub profile.
 </p>
