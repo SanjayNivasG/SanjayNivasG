@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanjay Nivas G</h1>
 
-<h3 align="center">🚀 Full Stack Developer | ☁️ DevOps & Cloud Engineer | AWS Enthusiast</h3>
+<h3 align="center">
+🚀 Full Stack Developer | ☁️ DevOps & Cloud Engineer | AWS Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+%26+Cloud+Engineer;AWS+Cloud+Enthusiast;MERN+Stack+Developer;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation;Building+Cloud+Native+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+%26+Cloud+Engineer;AWS+Cloud+Enthusiast;MERN+Stack+Developer;Docker+%7C+Kubernetes+%7C+Terraform;Building+Cloud+Native+Applications;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
@@ -20,25 +22,25 @@
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
 🎓 Information Technology Student
 
-💻 Passionate about Full Stack Development, Cloud Computing and DevOps.
+💻 Interested in Full Stack Development, DevOps and Cloud Computing.
 
-☁️ Hands-on experience with AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Helm, Prometheus and Grafana.
+☁️ Building cloud-native applications using AWS and Kubernetes.
 
-🌐 Building scalable cloud-native applications using the MERN Stack and Spring Boot.
+🚀 Passionate about automating infrastructure and deploying scalable applications.
 
-📚 Passionate about Linux, Networking, Kubernetes and Cloud Infrastructure.
+📚 Currently improving Linux, Networking, Kubernetes and AWS skills.
 
-🎯 Aspiring Full Stack Developer and Cloud & DevOps Engineer.
+🎯 Looking for opportunities as a Full Stack Developer or DevOps/Cloud Engineer.
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://github.com/SanjayNivasG">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -48,42 +50,22 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<!-- Add your LinkedIn -->
-<!--
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
--->
-
-<!-- Add your Portfolio -->
-<!--
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
--->
-
 </p>
 
 ---
 
-# 💻 Full Stack Development
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,bash"/>
-</p>
+# 💻 Full Stack
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,php"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php"/>
 </p>
 
 ### Database
@@ -97,62 +79,46 @@
 # ☁️ DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github,githubactions,prometheus,grafana,nginx,vscode,postman,maven"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github,prometheus,grafana,nginx,bash"/>
 </p>
 
-## AWS Services
+### AWS Services
 
 - Amazon EC2
 - Amazon EKS
-- IAM
 - Amazon S3
+- IAM
 - Amazon VPC
-- CloudWatch
-- Route 53
-- Application Load Balancer
-- Auto Scaling
-- DynamoDB
+- Application Load Balancer (ALB)
 
 ---
 
-# 🛠️ DevOps Tools
+# 🛠 Tools
 
-- Docker
-- Kubernetes
-- Helm
-- Argo CD
-- Jenkins
-- Terraform
-- GitHub Actions
-- Prometheus
-- Grafana
-- Linux
-- Bash
-- Git
-- Nginx
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,maven"/>
+</p>
 
 ---
 
-# 💼 Featured Projects
+# 🚀 Featured Projects
 
-## ☁️ Cloud & DevOps
+### ☁️ DevOps & Cloud
 
-- 🚀 End-to-End CI/CD Pipeline using AWS, Jenkins, Docker & Kubernetes
-- 🚀 AWS EKS GitOps using Argo CD
-- 🚀 External Secrets Integration
-- 🚀 IAM Roles for Service Accounts (IRSA)
-- 🚀 ALB Ingress Troubleshooting
-- 🚀 Kubernetes Production Incident Labs
-- 🚀 Prometheus & Grafana Monitoring
-- 🚀 Terraform Infrastructure as Code
+- End-to-End CI/CD Pipeline using AWS, Jenkins, Docker and Kubernetes
+- Amazon EKS GitOps using Argo CD
+- External Secrets Integration
+- IAM Roles for Service Accounts (IRSA)
+- ALB Ingress Troubleshooting
+- Kubernetes Production Troubleshooting Labs
+- Infrastructure Automation using Terraform
+- Prometheus & Grafana Monitoring
 
-## 💻 Full Stack
+### 💻 Full Stack
 
-- Smart Timetable Scheduler
 - Legal Connect
 - Mental Health Care Website
-- MERN Stack Applications
-- Spring Boot REST APIs
+- MERN Stack Web Applications
 
 ---
 
@@ -160,11 +126,10 @@
 
 - Advanced Kubernetes
 - AWS Solutions Architecture
-- GitHub Actions
-- Helm Charts
+- Advanced Terraform
+- Linux Administration
+- Computer Networking
 - Kubernetes Security
-- Istio Service Mesh
-- Advanced Linux Networking
 
 ---
 
@@ -210,35 +175,26 @@
 
 ---
 
-# 💻 Coding Profiles
-
-Coming Soon...
-
-- LeetCode
-- HackerRank
-- CodeChef
-- GeeksforGeeks
-
----
-
 # 👀 Profile Views
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SanjayNivasG&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=SanjayNivasG&style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 💬 Dev Quote
+# 💬 Quote
 
-> **"First, solve the problem. Then, automate it."**
+> **"Keep learning. Keep building. Keep improving."**
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
 
 <p align="center">
-If you like my work, consider starring my repositories and following my GitHub profile.
+If you find my projects helpful, consider giving them a ⭐.
 </p>
