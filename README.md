@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:6A11CB&height=220&section=header&text=Sanjay%20Nivas%20G&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%26%20Cloud%20Engineer&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:6A11CB&height=220&section=header&text=Sanjay%20Nivas%20G&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20-%20DevOps%20and%20Cloud%20Engineer&descAlignY=55&descSize=20"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;DevOps+%26+Cloud+Engineer;AWS+Certified+Enthusiast;MERN+Stack+Developer;Building+Cloud-Native+Systems;Automating+Everything+with+IaC"/>
 
 <p>
   <a href="https://github.com/SanjayNivasG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:sanjaynivasgg23it@srishakthi.ac.in"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=SanjayNivasG&style=for-the-badge&color=00C4FF&label=PROFILE+VIEWS"/>
 </p>
 
