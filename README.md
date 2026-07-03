@@ -1,200 +1,168 @@
-<h1 align="center">Hi 👋, I'm Sanjay Nivas G</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Full Stack Developer | ☁️ DevOps & Cloud Engineer | AWS Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:6A11CB&height=220&section=header&text=Sanjay%20Nivas%20G&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%26%20Cloud%20Engineer&descAlignY=55&descSize=20"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+%26+Cloud+Engineer;AWS+Cloud+Enthusiast;MERN+Stack+Developer;Docker+%7C+Kubernetes+%7C+Terraform;Building+Cloud+Native+Applications;Always+Learning+New+Technologies"/>
-</p>
-
-<p align="center">
-
-<a href="https://github.com/SanjayNivasG">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:sanjaynivasgg23it@srishakthi.ac.in">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💫 About Me
-
-🎓 Information Technology Student
-
-💻 Interested in Full Stack Development, DevOps and Cloud Computing.
-
-☁️ Building cloud-native applications using AWS and Kubernetes.
-
-🚀 Passionate about automating infrastructure and deploying scalable applications.
-
-📚 Currently improving Linux, Networking, Kubernetes and AWS skills.
-
-🎯 Looking for opportunities as a Full Stack Developer or DevOps/Cloud Engineer.
-
----
-
-# 🌐 Connect With Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;DevOps+%26+Cloud+Engineer;AWS+Certified+Enthusiast;MERN+Stack+Developer;Building+Cloud-Native+Systems;Automating+Everything+with+IaC"/>
 
 <p>
-
-<a href="https://github.com/SanjayNivasG">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:sanjaynivasgg23it@srishakthi.ac.in">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/SanjayNivasG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:sanjaynivasgg23it@srishakthi.ac.in"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=SanjayNivasG&style=for-the-badge&color=00C4FF&label=PROFILE+VIEWS"/>
 </p>
 
----
+</div>
 
-# 💻 Full Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### Frontend
+## 🧭 About Me
 
+```yaml
+role: Information Technology Student
+focus:
+  - Full Stack Development (MERN)
+  - DevOps & Cloud Engineering
+  - Kubernetes & Container Orchestration
+  - Infrastructure as Code
+currently_building: Cloud-native applications on AWS + EKS
+currently_learning:
+  - Advanced Kubernetes Security
+  - AWS Solutions Architecture
+  - Terraform Modules at Scale
+  - Linux Systems Administration
+looking_for: Full Stack Developer / DevOps & Cloud Engineer roles
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🧰 Tech Arsenal
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Frontend**
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
 </p>
 
-### Backend
-
+**Backend**
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,php"/>
 </p>
 
-### Database
-
+**Database**
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis"/>
 </p>
 
----
+</td>
+<td valign="top" width="50%">
 
-# ☁️ DevOps & Cloud
-
+**Cloud & Infra**
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github,prometheus,grafana,nginx,bash"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform"/>
 </p>
 
-### AWS Services
-
-- Amazon EC2
-- Amazon EKS
-- Amazon S3
-- IAM
-- Amazon VPC
-- Application Load Balancer (ALB)
-
----
-
-# 🛠 Tools
-
+**CI/CD & Observability**
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,maven"/>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,prometheus,grafana"/>
 </p>
 
----
-
-# 🚀 Featured Projects
-
-### ☁️ DevOps & Cloud
-
-- End-to-End CI/CD Pipeline using AWS, Jenkins, Docker and Kubernetes
-- Amazon EKS GitOps using Argo CD
-- External Secrets Integration
-- IAM Roles for Service Accounts (IRSA)
-- ALB Ingress Troubleshooting
-- Kubernetes Production Troubleshooting Labs
-- Infrastructure Automation using Terraform
-- Prometheus & Grafana Monitoring
-
-### 💻 Full Stack
-
-- Legal Connect
-- Mental Health Care Website
-- MERN Stack Web Applications
-
----
-
-# 🌱 Currently Learning
-
-- Advanced Kubernetes
-- AWS Solutions Architecture
-- Advanced Terraform
-- Linux Administration
-- Computer Networking
-- Kubernetes Security
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanjayNivasG&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayNivasG&layout=compact&theme=tokyonight&hide_border=true"/>
-
+**OS & Tooling**
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,nginx,vscode,postman"/>
 </p>
 
----
+</td>
+</tr>
+</table>
 
-# 🔥 GitHub Streak
+### ☁️ AWS Services Hands-On
 
-<p align="center">
+| Service | Use Case |
+|---|---|
+| **EC2** | Provisioning & scaling compute workloads |
+| **EKS** | Running production-grade Kubernetes clusters |
+| **S3** | Object storage & static hosting |
+| **IAM / IRSA** | Fine-grained access control for services & pods |
+| **VPC** | Custom network topology, subnets, routing |
+| **ALB** | Ingress traffic routing & load balancing |
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### ☸️ EKS GitOps Pipeline
+End-to-end CI/CD on Amazon EKS using **Jenkins → Docker → Argo CD**, with IRSA for secure pod-level AWS access and External Secrets synced from AWS Secrets Manager.
+
+`Jenkins` `Docker` `Kubernetes` `Argo CD` `Terraform`
+
+</td>
+<td width="50%">
+
+### 📊 Observability Stack
+Full monitoring pipeline for Kubernetes workloads using **Prometheus + Grafana**, with custom dashboards and alerting rules for production troubleshooting.
+
+`Prometheus` `Grafana` `Kubernetes` `Helm`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚖️ Legal Connect
+A MERN-based platform connecting clients with legal professionals, featuring auth, real-time messaging, and case management.
+
+`React` `Node.js` `Express` `MongoDB`
+
+</td>
+<td width="50%">
+
+### 🧠 Mental Health Care Platform
+A full-stack web app providing mental health resources, appointment booking, and a supportive community space.
+
+`React` `Node.js` `MySQL`
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SanjayNivasG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayNivasG&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com?user=SanjayNivasG&theme=tokyonight&hide_border=true"/>
 
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayNivasG&theme=tokyo-night&hide_border=true"/>
 
----
+</div>
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayNivasG&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
+<details>
+<summary>🏆 GitHub Trophies</summary>
+<br>
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=SanjayNivasG&theme=tokyonight&row=2&column=4"/>
+</div>
+</details>
 
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
+<div align="center">
 
-# 👀 Profile Views
+### 💬 *"Keep learning. Keep building. Keep improving."*
 
-<p align="center">
+⭐ **If any of my projects helped you, consider giving them a star!**
 
-<img src="https://komarev.com/ghpvc/?username=SanjayNivasG&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:00C4FF&height=100&section=footer"/>
 
-</p>
-
----
-
-# 💬 Quote
-
-> **"Keep learning. Keep building. Keep improving."**
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
-
-<p align="center">
-If you find my projects helpful, consider giving them a ⭐.
-</p>
+</div>
