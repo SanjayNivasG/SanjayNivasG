@@ -32,8 +32,8 @@
 role: Information Technology Student
 focus:
   - Full Stack Development (MERN)
-  - DevOps & Cloud Engineering
-  - Kubernetes & Container Orchestration
+  - DevOps &amp; Cloud Engineering
+  - Kubernetes &amp; Container Orchestration
   - Infrastructure as Code
 currently_building: Cloud-native applications on AWS + EKS
 currently_learning:
@@ -41,7 +41,7 @@ currently_learning:
   - AWS Solutions Architecture
   - Terraform Modules at Scale
   - Linux Systems Administration
-looking_for: Full Stack Developer / DevOps & Cloud Engineer roles
+looking_for: Full Stack Developer / DevOps &amp; Cloud Engineer roles
 fun_fact: I'd rather write a Terraform module than click through a console
 ```
 
@@ -73,17 +73,17 @@ fun_fact: I'd rather write a Terraform module than click through a console
 </td>
 <td valign="top" width="50%">
 
-**Cloud & Infra**
+**Cloud &amp; Infra**
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform"/>
 </p>
 
-**CI/CD & Observability**
+**CI/CD &amp; Observability**
 <p>
 <img src="https://skillicons.dev/icons?i=jenkins,githubactions,prometheus,grafana"/>
 </p>
 
-**OS & Tooling**
+**OS &amp; Tooling**
 <p>
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,nginx,vscode,postman"/>
 </p>
@@ -111,12 +111,12 @@ fun_fact: I'd rather write a Terraform module than click through a console
 
 | Service | Use Case |
 |---|---|
-| **EC2** | Provisioning & scaling compute workloads |
+| **EC2** | Provisioning &amp; scaling compute workloads |
 | **EKS** | Running production-grade Kubernetes clusters |
-| **S3** | Object storage & static hosting |
-| **IAM / IRSA** | Fine-grained access control for services & pods |
+| **S3** | Object storage &amp; static hosting |
+| **IAM / IRSA** | Fine-grained access control for services &amp; pods |
 | **VPC** | Custom network topology, subnets, routing |
-| **ALB** | Ingress traffic routing & load balancing |
+| **ALB** | Ingress traffic routing &amp; load balancing |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -248,7 +248,7 @@ A full-stack web app providing mental health resources, appointment booking, and
 
 ## 🤝 Let's Connect
 
-I'm actively exploring **Full Stack Developer** and **DevOps & Cloud Engineer** opportunities — feel free to reach out for collaborations, internships, or a quick chat about Kubernetes, AWS, or MERN.
+I'm actively exploring **Full Stack Developer** and **DevOps &amp; Cloud Engineer** opportunities — feel free to reach out for collaborations, internships, or a quick chat about Kubernetes, AWS, or MERN.
 
 <p align="center">
   <a href="mailto:sanjaynivasgg23it@srishakthi.ac.in"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
