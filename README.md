@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:6A11CB&height=220&section=header&text=Sanjay%20Nivas%20G&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20-%20DevOps%20and%20Cloud%20Engineer&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:6A11CB&height=220&section=header&text=Sanjay%20Nivas%20G&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%26%20Cloud%20Engineer&descAlignY=55&descSize=20"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;DevOps+%26+Cloud+Engineer;AWS+Cloud+Enthusiast;MERN+Stack+Developer;Building+Cloud-Native+Systems;Automating+Everything+with+IaC"/>
 
@@ -32,6 +32,7 @@ currently_learning:
   - Terraform Modules at Scale
   - Linux Systems Administration
 looking_for: Full Stack Developer / DevOps & Cloud Engineer roles
+fun_fact: I'd rather write a Terraform module than click through a console
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -96,38 +97,46 @@ looking_for: Full Stack Developer / DevOps & Cloud Engineer roles
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ☸️ EKS GitOps Pipeline
 End-to-end CI/CD on Amazon EKS using **Jenkins → Docker → Argo CD**, with IRSA for secure pod-level AWS access and External Secrets synced from AWS Secrets Manager.
 
 `Jenkins` `Docker` `Kubernetes` `Argo CD` `Terraform`
 
+<!-- <a href="#"><img src="https://img.shields.io/badge/View%20Repo-00C4FF?style=flat-square&logo=github&logoColor=white"/></a> -->
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Observability Stack
 Full monitoring pipeline for Kubernetes workloads using **Prometheus + Grafana**, with custom dashboards and alerting rules for production troubleshooting.
 
 `Prometheus` `Grafana` `Kubernetes` `Helm`
 
+<!-- <a href="#"><img src="https://img.shields.io/badge/View%20Repo-00C4FF?style=flat-square&logo=github&logoColor=white"/></a> -->
+
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚖️ Legal Connect
 A MERN-based platform connecting clients with legal professionals, featuring auth, real-time messaging, and case management.
 
 `React` `Node.js` `Express` `MongoDB`
 
+<!-- <a href="#"><img src="https://img.shields.io/badge/View%20Repo-00C4FF?style=flat-square&logo=github&logoColor=white"/></a> -->
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 Mental Health Care Platform
 A full-stack web app providing mental health resources, appointment booking, and a supportive community space.
 
 `React` `Node.js` `MySQL`
+
+<!-- <a href="#"><img src="https://img.shields.io/badge/View%20Repo-00C4FF?style=flat-square&logo=github&logoColor=white"/></a> -->
 
 </td>
 </tr>
@@ -159,6 +168,15 @@ A full-stack web app providing mental health resources, appointment booking, and
 </details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🤝 Let's Connect
+
+I'm actively exploring **Full Stack Developer** and **DevOps & Cloud Engineer** opportunities — feel free to reach out for collaborations, internships, or a quick chat about Kubernetes, AWS, or MERN.
+
+<p align="center">
+  <a href="mailto:sanjaynivasgg23it@srishakthi.ac.in"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sanjay-nivas-g-85568727b"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 <div align="center">
 
