@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Hi%20There,%20I'm%20Sanjay%20Nivas%20G%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%26%20Cloud%20Engineer&descAlignY=52&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Hi%20There,%20I'm%20Sanjay%20Nivas%20G%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20DevOps%20and%20Cloud%20Engineer&descAlignY=52&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00C4FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+(MERN);DevOps+%26+Cloud+Engineer;Kubernetes+%2B+AWS+EKS;Infrastructure+as+Code+with+Terraform;Building+Cloud-Native+Systems;Automating+Everything+with+CI%2FCD"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00C4FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+(MERN);DevOps+and+Cloud+Engineer;Kubernetes+%2B+AWS+EKS;Infrastructure+as+Code+with+Terraform;Building+Cloud-Native+Systems;Automating+Everything+with+CI%2FCD"/>
 
 <br>
 
